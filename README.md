@@ -14,7 +14,7 @@ The transformed data will be stored in a CSV file and an SQLite database for fur
 ## Project Structure
 ### Step 1: Data Extraction
 
-Function to extract data from a given URL under the "By Market Capitalization" section.
+Function to extract data from a given URL : https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks.
 Save extracted data to a pandas DataFrame.
 
 ### Step 2: Data Transformation
