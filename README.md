@@ -1,4 +1,6 @@
 # ETL Project for Top 10 Largest Banks by Market Capitalization
+![WhatsApp Image 2024-10-16 at 7 23 17 AM](https://github.com/user-attachments/assets/0147bcca-ff55-4713-9e64-59051205f470)
+
 ## Project Overview
 This project is designed to demonstrate the Extract, Transform, Load (ETL) process using Python, with real-world data on the top 10 largest banks by market capitalization.
 The primary objective is to gather data, perform transformations for currency conversion, and store the processed data in both a CSV file and a database.
