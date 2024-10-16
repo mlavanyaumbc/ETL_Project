@@ -44,22 +44,35 @@ Implement logging throughout each step to track progress and potential issues.
 
 ### Getting Started
 ### Prerequisites
+
 Python 3.x
+
 Pandas
+
 SQLite3
+
 NumPy
+
 Requests (for data extraction from the web)
 
 ### Files Included
 banks_project.ipynb: The main script containing all functions and logic for the ETL process.
+
 exchange_rate.csv: CSV file with exchange rate information for GBP, EUR, and INR.
+
 transformed_data.csv: CSV file after transformations applied.
+
 code_log.txt: Log file to track code execution progress.
+
 Banks.db: SQLite database file generated after running the project.
 
 ### Project Objectives
 Extract bank data and convert it to a pandas DataFrame.
+
 Transform data to include GBP, EUR, and INR market capitalization.
+
 Load data into a CSV and an SQLite database table.
+
 Query database based on office requirements.
+
 Log each step for transparency and debugging purposes.
